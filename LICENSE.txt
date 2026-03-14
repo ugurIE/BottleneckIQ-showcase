@@ -1,0 +1,9 @@
+Copyright (c) 2026 UGUR OZEL
+All rights reserved.
+
+This showcase repository and all included materials are proprietary and provided
+for portfolio and evaluation purposes only.
+
+No permission is granted to copy, reproduce, modify, distribute, publish,
+sublicense, sell, or create derivative works from any part of this repository
+without prior written permission from the copyright holder.

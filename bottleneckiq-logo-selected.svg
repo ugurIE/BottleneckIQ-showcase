@@ -1,0 +1,92 @@
+﻿<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">BottleneckIQ selected logo</title>
+  <desc id="desc">Warehouse flow logo with silver network lanes, mint bottleneck highlight, and a continuous BottleneckIQ wordmark.</desc>
+  <defs>
+    <linearGradient id="silverLine" x1="116" y1="118" x2="910" y2="194" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D6DCE6"/>
+      <stop offset="1" stop-color="#BFC8D6"/>
+    </linearGradient>
+    <linearGradient id="silverLine2" x1="196" y1="226" x2="926" y2="128" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#CDD5E0"/>
+      <stop offset="1" stop-color="#E3E9F1"/>
+    </linearGradient>
+    <linearGradient id="mintLine" x1="254" y1="188" x2="884" y2="82" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#60DFC2"/>
+      <stop offset="1" stop-color="#79F7B7"/>
+    </linearGradient>
+    <linearGradient id="mintFill" x1="898" y1="270" x2="1110" y2="304" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#59E1C2"/>
+      <stop offset="1" stop-color="#7AF7B7"/>
+    </linearGradient>
+    <linearGradient id="greyFill" x1="78" y1="270" x2="906" y2="270" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D5DBE5"/>
+      <stop offset="1" stop-color="#BFC7D4"/>
+    </linearGradient>
+    <filter id="mintGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.3529 0 0 0 0 0.8784 0 0 0 0 0.7608 0 0 0 0.30 0"/>
+      <feBlend in="SourceGraphic" mode="screen"/>
+    </filter>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#AFC7C8" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <g stroke-linecap="round" stroke-linejoin="round" filter="url(#softShadow)">
+    <circle cx="116" cy="124" r="11" fill="#D3D9E3"/>
+    <circle cx="150" cy="170" r="11" fill="#D3D9E3"/>
+    <circle cx="116" cy="216" r="11" fill="#D3D9E3"/>
+    <circle cx="184" cy="170" r="9" fill="#D3D9E3"/>
+    <circle cx="228" cy="170" r="11" fill="#61DFC2"/>
+
+    <path d="M116 124L150 170L116 216" stroke="#D3D9E3" stroke-width="7"/>
+    <path d="M116 124H184L228 170" stroke="#D3D9E3" stroke-width="7"/>
+    <path d="M116 216H184L228 170" stroke="#D3D9E3" stroke-width="7"/>
+    <path d="M150 170H228" stroke="#61DFC2" stroke-width="7"/>
+  </g>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" filter="url(#mintGlow)">
+    <path d="M228 138C300 138 336 172 390 172C458 172 476 114 556 114C624 114 666 159 710 192" stroke="url(#silverLine)" stroke-width="16"/>
+    <path d="M228 170H382C458 170 514 142 574 97C618 64 656 48 700 48" stroke="url(#mintLine)" stroke-width="14"/>
+    <path d="M228 202C294 202 327 160 378 160C448 160 475 250 588 250C670 250 728 208 780 158" stroke="url(#silverLine2)" stroke-width="16"/>
+    <path d="M260 170H376C450 170 512 170 574 168C642 166 706 148 764 112" stroke="url(#silverLine)" stroke-width="11"/>
+
+    <path d="M560 250C680 250 750 195 814 124C865 68 910 40 978 34" stroke="url(#silverLine2)" stroke-width="17"/>
+    <path d="M590 114C698 114 772 143 836 194C886 233 932 252 988 252" stroke="url(#silverLine)" stroke-width="17"/>
+    <path d="M620 98C710 98 783 75 852 28" stroke="url(#mintLine)" stroke-width="13"/>
+    <path d="M646 222C740 222 818 190 888 142" stroke="url(#mintLine)" stroke-width="13"/>
+    <path d="M228 170H436C516 170 580 168 642 160C712 152 770 132 822 96" stroke="url(#mintLine)" stroke-width="13"/>
+  </g>
+
+  <g fill="#D0D7E2">
+    <path d="M978 34L954 59L991 52L978 34Z"/>
+    <path d="M988 252L964 277L1001 270L988 252Z"/>
+  </g>
+  <g fill="#66E8BE">
+    <path d="M852 28L829 51L865 45L852 28Z"/>
+    <path d="M888 142L865 166L901 159L888 142Z"/>
+  </g>
+
+  <g transform="translate(694 84)" filter="url(#mintGlow)">
+    <circle cx="102" cy="92" r="68" fill="#F6FAFF" fill-opacity="0.96"/>
+    <circle cx="102" cy="92" r="82" fill="#66E4C1" fill-opacity="0.14"/>
+    <path d="M90 84L99 75L110 84L110 101" stroke="#61DFC2" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <path d="M102 73V67" stroke="#C7D0DE" stroke-width="5" stroke-linecap="round"/>
+    <path d="M81 92H74" stroke="#C7D0DE" stroke-width="5" stroke-linecap="round"/>
+    <path d="M130 92H123" stroke="#C7D0DE" stroke-width="5" stroke-linecap="round"/>
+    <path d="M85 60L90 65" stroke="#61DFC2" stroke-width="4.5" stroke-linecap="round"/>
+    <path d="M119 60L114 65" stroke="#61DFC2" stroke-width="4.5" stroke-linecap="round"/>
+
+    <path d="M102 50C121 50 137 66 137 85C137 101 126 112 118 120C114 125 113 130 113 137V144" stroke="#C7D0DE" stroke-width="6.5" stroke-linecap="round" fill="none"/>
+    <path d="M102 50C83 50 67 66 67 85C67 101 78 112 86 120C90 125 91 130 91 137V144" stroke="#61DFC2" stroke-width="6.5" stroke-linecap="round" fill="none"/>
+    <path d="M89 144H115V166C115 175 109 181 102 181C95 181 89 175 89 166V144Z" fill="#CDD5E0"/>
+    <path d="M83 184H121" stroke="#C7D0DE" stroke-width="8" stroke-linecap="round"/>
+    <path d="M86 197H118" stroke="#C7D0DE" stroke-width="8" stroke-linecap="round"/>
+
+    <path d="M150 72L158 64" stroke="#61DFC2" stroke-width="4.5" stroke-linecap="round"/>
+    <path d="M160 92H170" stroke="#61DFC2" stroke-width="4.5" stroke-linecap="round"/>
+    <path d="M150 112L158 120" stroke="#61DFC2" stroke-width="4.5" stroke-linecap="round"/>
+  </g>
+
+  <text x="80" y="316" fill="url(#greyFill)" font-family="Segoe UI, Arial, sans-serif" font-size="106" font-weight="800" letter-spacing="-4">Bottleneck<tspan fill="url(#mintFill)">IQ</tspan></text>
+</svg>
