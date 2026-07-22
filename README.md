@@ -14,12 +14,6 @@
 
 > Bu repo public ürün vitrinidir. Skorlama motoru ve uygulama kaynak kodu private tutulmaktadır.
 
-### Tanıtım videosu
-
-[![BottleneckIQ tanıtım videosunu YouTube'da izle](https://img.youtube.com/vi/ZuZlqDii8-Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZuZlqDii8-Q)
-
-[YouTube'da izle](https://www.youtube.com/watch?v=ZuZlqDii8-Q)
-
 ### Nasıl çalışır?
 
 1. Excel/CSV operasyon kayıtları yüklenir ve kolonlar eşleştirilir.
@@ -75,12 +69,6 @@ Sentetik testler ve implementasyon uyumu saha doğruluk yüzdesi değildir. Müd
 **BottleneckIQ** is an Industrial Engineering decision-support prototype that identifies the daily warehouse bottleneck candidate from handheld-terminal or WMS operation timestamps and explains the confidence behind the decision.
 
 > This is the public product showcase. The scoring engine and application source code remain private.
-
-### Demo video
-
-[![Watch the BottleneckIQ demo on YouTube](https://img.youtube.com/vi/ZuZlqDii8-Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZuZlqDii8-Q)
-
-[Watch on YouTube](https://www.youtube.com/watch?v=ZuZlqDii8-Q)
 
 ### How it works
 
